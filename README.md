@@ -21,6 +21,8 @@ The model was evaluated on multiple public datasets, demonstrating relatively lo
 
 The system estimates the number of people in an image with relatively low error across several public datasets. The lowest error rates were observed on the **Nol KM dataset**, confirming the effectiveness of the improved MCNN approach for complex, unstructured crowd scenes.
 
+**Result images (density maps and visualizations)** can be viewed in the `ShanghaiTech` and `Nol-KM-Results` folders.
+
 ---
 
 ## 📄 Thesis & Full Documentation
